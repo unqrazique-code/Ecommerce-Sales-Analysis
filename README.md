@@ -1,6 +1,6 @@
-# 📊 E-commerce Sales Data Analysis
+# E-commerce Sales Data Analysis
 
-## 📌 Objective
+##  Objective
 Analyze sales data to identify trends, top products, and regional performance.
 
 ## Tools Used
