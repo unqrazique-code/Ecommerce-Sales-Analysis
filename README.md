@@ -43,7 +43,7 @@ This project analyzes e-commerce sales data to uncover trends, evaluate business
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
