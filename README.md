@@ -43,7 +43,7 @@ This project analyzes e-commerce sales data to uncover trends, evaluate business
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/Dashboard.png)
+![Dashboard](https://github.com/unqrazique-code/Ecommerce-Sales-Analysis/blob/eed883630ffbdd262b5c1a418fa88a543e28a413/Dashboard.png)
 
 ---
 
